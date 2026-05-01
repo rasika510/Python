@@ -1,4 +1,4 @@
-names=["geeth","rasika","ankitha","sunny","akash"]
+names=["bhavani","rasika","ankitha","harsha","harika"]
 marks=[[66,40,30],[20,30,40],[56,23,45],[56,20,30],[56,33,22]]
 for i in range(5):
     a=sum(marks[i])//3
