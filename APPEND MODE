@@ -1,0 +1,8 @@
+a=open("raj.doc",'a')
+n1=int(input("Enter any number:"))
+n2=int(input("enter any number:"))
+sum=n1+n2
+a.write(str(n1))
+a.write(str(n2))
+a.write(str(sum))
+print("OK")
